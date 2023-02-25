@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/big.spritefont</SourceFile>
+  <SourceTime>2022-07-09T21:35:36.4990015+09:00</SourceTime>
+  <DestFile>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/bin/Windows/big.xnb</DestFile>
+  <DestTime>2022-12-04T19:51:28.1562671+09:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2020-08-11T01:17:54+09:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2020-08-11T01:17:54+09:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

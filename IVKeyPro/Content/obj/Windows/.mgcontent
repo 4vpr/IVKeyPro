@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/0.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/1.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/2.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/3.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/4.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/5.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/6.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/7.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/8.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/9.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/bad.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/big.spritefont</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/combo.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/File.spritefont</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/longnote.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/miss.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/noob.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/note.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/noteEffect.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/panel.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/pro.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/pro+.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/rank0.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/rank1.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/rank10.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/rank11.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/rank12.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/rank13.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/rank14.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/rank15.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/rank16.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/rank2.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/rank3.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/rank4.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/rank5.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/rank6.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/rank7.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/rank8.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/rank9.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/songSelected.png</File>
+    <File>C:/Users/4shou/Develop/Projects/IVKeyPro/IVKeyPro/Content/SongUI.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>mid.spritefont</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>proplus.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
